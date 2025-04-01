@@ -7,5 +7,11 @@ using namespace std;
 int main() {
     cout << "Hello, World!" << endl;
     cout << "Git is now tracking this project!" << endl;
-    return 0;
+    
+
+    int age;
+
+    cout << "Enter age: " << std::endl;
+
+    cin >> age;
 }
